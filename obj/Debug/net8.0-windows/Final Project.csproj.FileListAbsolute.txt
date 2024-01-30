@@ -1,0 +1,52 @@
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project_MarkupCompile.cache
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project_MarkupCompile.lref
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.exe
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.deps.json
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.runtimeconfig.json
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.dll
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.pdb
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.g.resources
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.AssemblyInfoInputs.cache
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.AssemblyInfo.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.dll
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\refint\Final Project.dll
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.pdb
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.genruntimeconfig.cache
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\ref\Final Project.dll
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\CombatWindow.g.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\CombatWindow.baml
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\GameMain.g.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\final-project-matheus_fabian_ethan\obj\Debug\net8.0-windows\GameMain.baml
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\CombatWindow.g.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\GameMain.g.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project_MarkupCompile.cache
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project_MarkupCompile.lref
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.dll
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\refint\Final Project.dll
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.pdb
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.exe
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.deps.json
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.runtimeconfig.json
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.dll
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\bin\Debug\net8.0-windows\Final Project.pdb
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\CombatWindow.baml
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\GameMain.baml
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.g.resources
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.AssemblyInfoInputs.cache
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.AssemblyInfo.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\Final Project.genruntimeconfig.cache
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\ref\Final Project.dll
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\CharacterSelection.g.cs
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\CharacterSelection.baml
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\InventoryWindow.baml
+C:\Users\Matheus-PC\Desktop\Documents\Whitworth\Computer Science\CS371\matheus_fabian_ethan\obj\Debug\net8.0-windows\InventoryWindow.g.cs
